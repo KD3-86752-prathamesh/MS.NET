@@ -1,0 +1,7 @@
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\bin\Debug\Assignment1.exe.config
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\bin\Debug\Assignment1.exe
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\bin\Debug\Assignment1.pdb
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\obj\Debug\Assignment1.exe
+E:\cdac\myGitData\DotNet\solutionProject\firstDotNet\Assignment1\obj\Debug\Assignment1.pdb
