@@ -1,0 +1,10 @@
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\bin\Debug\Assignment_2.exe.config
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\bin\Debug\Assignment_2.exe
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\bin\Debug\Assignment_2.pdb
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\bin\Debug\ArrayFunctions.dll
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\bin\Debug\ArrayFunctions.pdb
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\obj\Debug\Assignme.24507640.Up2Date
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\obj\Debug\Assignment_2.exe
+E:\cdac\myGitData\DotNet\MS.NET\Assignment2\Assignment_2\obj\Debug\Assignment_2.pdb
