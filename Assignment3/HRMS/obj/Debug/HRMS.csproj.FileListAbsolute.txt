@@ -1,0 +1,10 @@
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\bin\Debug\HRMS.exe.config
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\bin\Debug\HRMS.exe
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\bin\Debug\HRMS.pdb
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\bin\Debug\EmployeeLib.dll
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\bin\Debug\EmployeeLib.pdb
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\obj\Debug\HRMS.csproj.Up2Date
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\obj\Debug\HRMS.exe
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\HRMS\obj\Debug\HRMS.pdb

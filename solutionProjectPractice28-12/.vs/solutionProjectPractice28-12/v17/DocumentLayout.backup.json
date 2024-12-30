@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E210DA6-0DCE-4DCE-ACC2-503B537D4D54}|Practice28_12(2)\\Practice28_12(2).csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28_12(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E210DA6-0DCE-4DCE-ACC2-503B537D4D54}|Practice28_12(2)\\Practice28_12(2).csproj|solutionrelative:practice28_12(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\pdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\pdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\specialreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\specialreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\solutionprojectpractice28-12\\practice28-12\\docs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D9D4B7-C523-43A3-9F4E-2B26565B2FE7}|practice28-12\\practice28-12.csproj|solutionrelative:practice28-12\\docs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\Practice28_12(2)\\Program.cs",
+              "RelativeDocumentMoniker": "Practice28_12(2)\\Program.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\Practice28_12(2)\\Program.cs",
+              "RelativeToolTip": "Practice28_12(2)\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAMjMzMzPjvyYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:13:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XMl.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\XMl.cs",
+              "RelativeDocumentMoniker": "practice28-12\\XMl.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\XMl.cs",
+              "RelativeToolTip": "practice28-12\\XMl.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:43:30.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecialReport.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\SpecialReport.cs",
+              "RelativeDocumentMoniker": "practice28-12\\SpecialReport.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\SpecialReport.cs",
+              "RelativeToolTip": "practice28-12\\SpecialReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:41:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Docs.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Docs.cs",
+              "RelativeDocumentMoniker": "practice28-12\\Docs.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Docs.cs",
+              "RelativeToolTip": "practice28-12\\Docs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:36:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportFactory.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\ReportFactory.cs",
+              "RelativeDocumentMoniker": "practice28-12\\ReportFactory.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\ReportFactory.cs",
+              "RelativeToolTip": "practice28-12\\ReportFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:27:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PDF.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\PDF.cs",
+              "RelativeDocumentMoniker": "practice28-12\\PDF.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\PDF.cs",
+              "RelativeToolTip": "practice28-12\\PDF.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:20:33.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Report.cs",
+              "RelativeDocumentMoniker": "practice28-12\\Report.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Report.cs",
+              "RelativeToolTip": "practice28-12\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:16:04.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Logger.cs",
+              "RelativeDocumentMoniker": "practice28-12\\Logger.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Logger.cs",
+              "RelativeToolTip": "practice28-12\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:02:14.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Program.cs",
+              "RelativeDocumentMoniker": "practice28-12\\Program.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\solutionProjectPractice28-12\\practice28-12\\Program.cs",
+              "RelativeToolTip": "practice28-12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:01:31.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

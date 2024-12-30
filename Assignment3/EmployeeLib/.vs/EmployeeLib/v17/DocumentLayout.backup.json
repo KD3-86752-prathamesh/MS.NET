@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EE4EC7-04E7-4F43-A5AC-EE435F73634D}|..\\HRMS\\HRMS.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\employeelib\\employeelib\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\employeelib\\employeelib\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\employeelib\\employeelib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\employeelib\\employeelib\\wageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\wageemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\employeelib\\employeelib\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|e:\\cdac\\mygitdata\\dotnet\\ms.net\\assignment3\\employeelib\\employeelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9B5B8-F224-4A43-8F87-DFE69280FA18}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Supervisor.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Supervisor.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Supervisor.cs",
+              "RelativeToolTip": "EmployeeLib\\Supervisor.cs",
+              "ViewState": "AgIAAB8AAAAAZmZmZmYSwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:22:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Person.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Person.cs",
+              "RelativeToolTip": "EmployeeLib\\Person.cs",
+              "ViewState": "AgIAAAEAAAAgMzMzMzMrwCkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:17:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Manager.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Manager.cs",
+              "RelativeToolTip": "EmployeeLib\\Manager.cs",
+              "ViewState": "AgIAAB8AAABAmZmZmZktwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:44:20.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Employee.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Employee.cs",
+              "RelativeToolTip": "EmployeeLib\\Employee.cs",
+              "ViewState": "AgIAADYAAADg//////8nwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:52:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HRMS\\Program.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\HRMS\\Program.cs",
+              "RelativeToolTip": "..\\HRMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:30:41.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WageEmp.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\WageEmp.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\WageEmp.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\WageEmp.cs",
+              "RelativeToolTip": "EmployeeLib\\WageEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:33:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cs",
+              "DocumentMoniker": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Date.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Date.cs",
+              "ToolTip": "E:\\cdac\\myGitData\\DotNet\\MS.NET\\Assignment3\\EmployeeLib\\EmployeeLib\\Date.cs",
+              "RelativeToolTip": "EmployeeLib\\Date.cs",
+              "ViewState": "AgIAAB8AAACAzMzMzMw9wGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:13:33.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

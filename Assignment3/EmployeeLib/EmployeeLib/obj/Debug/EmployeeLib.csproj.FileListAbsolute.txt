@@ -1,0 +1,6 @@
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+E:\cdac\myGitData\DotNet\MS.NET\Assignment3\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb
