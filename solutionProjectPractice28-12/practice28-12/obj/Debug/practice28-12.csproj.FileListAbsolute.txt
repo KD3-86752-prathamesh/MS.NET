@@ -1,7 +1,0 @@
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\bin\Debug\practice28-12.exe.config
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\bin\Debug\practice28-12.exe
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\bin\Debug\practice28-12.pdb
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\obj\Debug\practice28-12.csproj.AssemblyReference.cache
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\obj\Debug\practice28-12.csproj.CoreCompileInputs.cache
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\obj\Debug\practice28-12.exe
-E:\cdac\myGitData\DotNet\MS.NET\solutionProjectPractice28-12\practice28-12\obj\Debug\practice28-12.pdb
